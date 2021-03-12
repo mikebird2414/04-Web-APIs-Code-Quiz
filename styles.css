@@ -1,0 +1,24 @@
+#startPage{
+    text-align: center;
+    background-color: #0476F2;
+    }
+    
+    a{
+        color: #C80000;
+        background-color: #FFEB00;
+    }
+    
+    a:hover{
+        color: #FFEB00;
+    }
+    
+    #startQuiz{
+        background-color: #C80000;
+        color: #FFEB00;
+        width: 200px;
+    }
+    
+    #startQuiz:hover{
+        background-color: #0476F2;
+    
+    }
